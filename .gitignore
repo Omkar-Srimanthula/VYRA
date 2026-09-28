@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+models/
+storage/*
+!storage/.gitkeep
+.env
+.env.*
+*.mp4
+*.wav
+*.mp3
+*.srt
+*.log
+.DS_Store
